@@ -1,2 +1,1 @@
-select * 
-from dbt_ogozlan.crf_sup_sales_fr
+{{ local_sales('crf_sup_sales_fr_data') }}

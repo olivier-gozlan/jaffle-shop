@@ -1,0 +1,1 @@
+{{ local_sales('crf_hyp_sales_fr_data') }}
