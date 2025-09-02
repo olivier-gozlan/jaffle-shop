@@ -1,0 +1,10 @@
+
+sources:
+  - name: crf
+    database: jaffle-shop-470809
+    schema: dbt_ogozlan
+    tables:
+      - name: crf_sup_sales_fr_data
+      - name: crf_hyp_sales_fr_data
+      - name: crf_prx_sales_fr_data
+      - name: crf_sales_group_data
