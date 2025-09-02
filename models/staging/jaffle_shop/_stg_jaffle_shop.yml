@@ -1,3 +1,4 @@
+version: 2
 models:
   - name: stg_jaffle_shop__customers
     description: one unique customer per row
